@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and perfect description of the strange and wonderful she-elephant sent from the Indies, which arrived at London, August 1. 1683. With the true portraicture of that wonder in nature.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63428</idno>
+            <idno type="STC">Wing T2527</idno>
+            <idno type="STC">ESTC R219802</idno>
+            <idno type="EEBO-CITATION">99831249</idno>
+            <idno type="PROQUEST">99831249</idno>
+            <idno type="VID">35712</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63428)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35712)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2116:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and perfect description of the strange and wonderful she-elephant sent from the Indies, which arrived at London, August 1. 1683. With the true portraicture of that wonder in nature.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (metalcut)  </extent>
+               <publicationStmt>
+                  <publisher>printed for Randolph Taylor near Stationers-Hall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: some lines of text failed to print.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Elephants --  India --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:35712:1" rendition="simple:additions"/>
+            <head>A True and Perfect Deſcription of the Strange and Wonderful SHE ELEPHANT, Sent from the <hi>INDIES,</hi> which arrived at <hi>LONDON, Auguſt</hi> 1. 1683. With the True Portraicture of That Wonder in Nature.</head>
+            <figure>
+               <figDesc>depiction of elephant</figDesc>
+               <head>The Elephant that was brought over: 1683 and is to be ſeene in London Auguſt.</head>
+            </figure>
+            <p>THat mighty Creature, called the <hi>Elephant,</hi> ex<g ref="char:EOLhyphen"/>ceedeth all other beaſts in the World; both in its vaſt proportion of Body, &amp; wonderfull Diſpotiſion of Mind: there hath been but one of them before in <hi>England.</hi> Before the <hi>Macedonians</hi> made incurſion into <hi>Aſia,</hi> no People of the World ex<g ref="char:EOLhyphen"/>cept the <hi>Indians</hi> and <hi>Africans,</hi> had ever ſeen them.</p>
+            <p>In <hi>India</hi> they are often Nine or Ten Cubits high, that is, about Fourteen or Fifteen Foot of our meaſure, and proportionable in breadth; their Head is very big, and the head of a man may eaſi<g ref="char:EOLhyphen"/>ly enter into their mouth; its eyes are but ſmall and like the eyes of a Swine, but very red; it hath Teeth, on either ſide four, with which it grinds it meat like meal; it has alſo two others which hang forth beyond the reſidue, &amp; with them they fight, &amp; root up Plants and Trees (when they are wild) for their food; it has a Trunk called <hi>Proboſcis,</hi> which is a large hollow thing, hanging from his Noſe like skin to the ground-ward; it hath two paſſages, one into his head, whereby he breaths, and the other into his mouth whereby he receives his meat: Tis a vulgar Error that an <hi>Elephant</hi> has no Joynts, which when he pleaſes he can uſe, bend and move; his ankles are very low, and he bends his hinder legs like a man when he ſits: They live upon the Fruit of Plants and Roots, and with their Trunks (ſuch is their incredible ſtrength) overthrow Trees and eat the Boughs; they are naturally chaſt or continent, taking their Venereal Couplements, the Male but thrice, the Female twice in all their dayes, for which purpoſe they ſeek out the moſt obſcure places they can meet with.</p>
+            <p>They are reputed to go with Young 3 years, bring forth but one at a time, her young one is then about the bigneſs of a Two Yearling, or a Steer of two years old, which ſhe nouriſheth 6 or 7 years. As ſoon as it is calved, it ſees, goes and ſucks, but not with its Trunk but its Mouth, and ſo grows on by degrees to to the prodigious ſtature before menti<g ref="char:EOLhyphen"/>oned; by his ready obedience to be mannaged by his Riders and his ſtrength, and is ſeldom ſeen ſhape, he often diſ<g ref="char:EOLhyphen"/>ordereth and ruines whole Armies.</p>
+            <p>They take them in <hi>Africa</hi> in great ditches or pit-falls, and there tame them by Famine, but the <hi>Indians</hi> have a nearer device, they in ſuch Ditches put ſuch meat as they know the <hi>Elephant</hi> loves, who winding of it, to get it, falls in; then comes one and beats him greivouſly for ſome time, till another chides him for ſo doing, and makes him go away, but he returns and falls a beating the <hi>Elephant</hi> again; whereupon the other likewiſe comes back and fights with him, and ſo they do ſeveral times, till at the laſt the <hi>Elephant</hi> knows him that takes his part (and the other being gone) he under pretence of kindneſs helps him out which they <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that purpoſe, out of the Pit, and the <hi>Elephant</hi> will go along with him, and be led by him as gentle as a Lamb.</p>
+            <p>King <hi>Bochus</hi> Condemned Thirty men to be torn and trod in peices by <hi>Ele<g ref="char:EOLhyphen"/>phants,</hi> and caſting them amongſt thirty <hi>Ele<g ref="char:EOLhyphen"/>phants,</hi> his ſervants by all their skill could not provoke them to touch one man. <hi>Antipater</hi> ſuppoſeth they have a kind of Divine Inſtinct of Law and Equity.</p>
+            <p>At <hi>Rome</hi> an <hi>Elephant</hi> having ſlain both the Adulterer and Adultereſs, covered them with the Bed Cloaths until the Keeper came home, and then by ſigns drew him to his Lodging to diſcover them, and ſhewed his bloody Tooth wherewith he had taken Revenge upon them both.</p>
+            <p>An <hi>Indian</hi> who had brought up a white <hi>Elephant</hi> from a Foal, the King hearing of this white <hi>Elephant</hi> ſends for it, the man denies the King, the Kings ſends meſſengers after to bring back the <hi>Elephant</hi> and the man to receive puniſh<g ref="char:EOLhyphen"/>ment.</p>
+            <p>At the place both the man and the <hi>Ele<g ref="char:EOLhyphen"/>phant</hi> defended themſelves; at laſt they got near to the <hi>Indian,</hi> and caſt him down a ſteep place. The <hi>Elephant</hi> ſlew ſome of them, and defended his Maſter, and put them to flight, and then took up his Maſter with his Trunk and carried him ſafe to his lodging.</p>
+            <p>They take great care to bury and cover the dead Carcaſes of their Com<g ref="char:EOLhyphen"/>panions, by caſting duſt and earth upon them, and alſo green boughs.</p>
+            <p>Beſides when they grow old they can neither gather meat nor ſight for them<g ref="char:EOLhyphen"/>ſelves; the younger feed, nouriſh and defend them, yea and raiſe them out of Ditches and Trenches into which they are fallen, and interpoſe their own bodies for their protection.</p>
+            <p>Theſe <hi>Elephants</hi> are ſaid to diſcern be<g ref="char:EOLhyphen"/>twixt Kings and common perſons, for they, adore and bend unto them, point<g ref="char:EOLhyphen"/>ting to their Crowns.</p>
+            <p>
+               <hi>Aleager</hi> or <hi>Chaumigren</hi> King of <hi>Pegu</hi> began a cruel War with an Army of a Million of Martial Men, two Hundred Thouſand Horſe, Five Thouſand <hi>Ele<g ref="char:EOLhyphen"/>phants,</hi> and Three Thouſand <hi>Camels,</hi> againſt the King of <hi>Syam</hi>; the City of <hi>Syam</hi> is judged twice as big as <hi>Paris,</hi> ly<g ref="char:EOLhyphen"/>ing diſtant from <hi>Pegu</hi> 65 dayes Journey by <hi>Camels,</hi> only for a white <hi>Camel</hi> to put into his Park at <hi>Pegu.</hi>
+            </p>
+            <p>Their chief food is Rice boyled in milk made up in balls, and they have daily 50 pound to their portions; beſides they are turned into the Fields, and feed upon Sy<g ref="char:EOLhyphen"/>camore leaves, and other pleaſing leaves.</p>
+            <p>They love Coolneſs and Bath in ponds, Heat is very troubleſom to them; when the waters are not high enough to cover them, they lye down and tumble therein.</p>
+            <p>When the <hi>Elephants</hi> go to War, they wear only the Skin with Bars of Steel o<g ref="char:EOLhyphen"/>ver their Trunks, and they are richly trapped upon their Feſtivals.</p>
+            <p>A mighty big <hi>Elephant</hi> being preſented to the King of <hi>Pegu,</hi> by <hi>Syam</hi> his Tribu<g ref="char:EOLhyphen"/>tary, the King immediately commanded meat to be brought him to know his Breeding, he that brought him gave him water in a foul Veſſel, the <hi>Elephant</hi> diſ<g ref="char:EOLhyphen"/>dainfully putting his Trunk into his mouth, ſpouted a great quantity of ſtink<g ref="char:EOLhyphen"/>ing water on his Keepers head, his Kee<g ref="char:EOLhyphen"/>per returning him a blow upon the head with a ſtaff, the Elephant immediately killed him with his Trunk. The King admiring his prudence, cauſed water to brought in a clean Silver Veſſel, and bought him Harneſs moſt rich and Magnificient; they are ſometime ſerved in Veſſels of Gold, &amp; with great reſpect, otherwiſe they will kill their Keepers for the leaſt of<g ref="char:EOLhyphen"/>fence.</p>
+            <div type="part">
+               <head>
+                  <hi>Learned Mr.</hi> Caryl'<hi>s deſcription of the</hi> Elephant.</head>
+               <p>He eateth Graſs like an Ox.</p>
+               <p>His food is as the food of an Ox.</p>
+               <p>He gathers up the graſs with his Trunk by reaſon of the ſhort<g ref="char:EOLhyphen"/>of his Neck, and then puts it into his mouth.</p>
+               <p>By reaſon of the littlneſs of his tongue ſuch is his Nature, he will not hurt any beaſt.</p>
+               <p>He is ſo gentle and harmleſs, that he will take meat out of a mans hand like a Dog.</p>
+               <p>His ſtrength is in his Loyns.</p>
+               <p>The Elephant is mighty in ſtrength.</p>
+               <p>His Trunk is very great, yet he eaſily turns it as he liſts at plea<g ref="char:EOLhyphen"/>ſure.</p>
+               <p>He's wholly compacted of Si<g ref="char:EOLhyphen"/>news ſtrongly twiſted together.</p>
+               <p>His Bones are ſtrong as Braſs or Bars of Iron.</p>
+               <p>He is the chief of rarities of God.</p>
+               <p>An <hi>Engliſh</hi> Maſtiff conquers an Ele<g ref="char:EOLhyphen"/>phant faſtening upon his <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+               <p>Elephants trained for the <hi>Mogul,</hi> and each carry an Iron Gun five foot long upon a ſtrong frame of wood faſtened to a thick board, to be put on his back, with a Pannel and broad Girths.</p>
+               <p>Some Elephants the Kings keep to exe<g ref="char:EOLhyphen"/>cue Malefactors, and ſome for ſtate, and others to carry Burdens.</p>
+               <p>The Elephants are ruled with a ſmall Rod of Steel about two pound a yard, made ſharp at the lower end, and a Hook turned like a fiſh-hook very ſharp, by which they pull them back that Ride them.</p>
+               <p>The Elephant a ſtranger with us, are common in <hi>India.</hi>
+               </p>
+               <p>It is the greateſt of all land Creatures. Their Teeth have been ſeen 14 ſpans long, and 4 ſpans thick.</p>
+               <p>Authors write of their endowments things incredible.</p>
+               <p>'Tis ſaid in the Kingdom of <hi>Malabar,</hi> they talk together, and ſpeak with mans Voice. <hi>Lipſius</hi> writes this in his own words, and it is the direct opinion of <hi>Elian.</hi>
+               </p>
+               <p>
+                  <hi>Plutarch</hi> and <hi>Pliny ſay,</hi> That an E<g ref="char:EOLhyphen"/>lephant that was ſomething dull, and was often beat for not learning well, was found acting his part by Moonlight.</p>
+               <p>Others ſay that they will learn to write and read.</p>
+               <p>
+                  <hi>Pliny</hi> ſaith Plainly from <hi>Mucianus,</hi> That one of them Learned the Greek Let<g ref="char:EOLhyphen"/>ters, and did write in the ſame Tongue theſe Words, <hi>I my ſelf Writ this, And I Offered the</hi> Celtick <hi>Spoils.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Randolph Taylor</hi> near <hi>Stationers</hi>-Hall, 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
